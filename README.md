@@ -39,7 +39,7 @@ Próximamente incluiré:
 
 ## 📫 Contacto
 Si quieres ponerte en contacto conmigo, puedes escribirme por:  
-- ✉️ **Correo:** [tu-correo@ejemplo.com]  
+- ✉️ **Correo:** [jhonydobladoprb@gmail.com]  
 - 💼 **LinkedIn:** [tu-linkedin]  
 - 🐙 **GitHub:** [tu usuario de GitHub]  
 
