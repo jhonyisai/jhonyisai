@@ -1,7 +1,7 @@
 # 🚀 Portafolio de Proyectos
 
 Bienvenido a mi portafolio en GitHub 👋  
-Aquí encontrarás una recopilación de proyectos, prácticas y ejercicios que he desarrollado en mi proceso de aprendizaje y crecimiento en el área de **programación, informática administrativa y contabilidad/finanzas**.  
+Aquí encontrarás una recopilación de proyectos, prácticas y ejercicios que he desarrollado en mi proceso de aprendizaje y crecimiento en el área de **programación, informática administrativa **.  
 
 ---
 
